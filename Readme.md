@@ -1,1 +1,2 @@
-ka ho hami ajkal vetght xain yar
+my name is santosh sharma.
+I am ui/ux designer and lecturer
