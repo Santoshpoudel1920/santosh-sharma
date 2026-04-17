@@ -1,5 +1,7 @@
 # 👋 Hi, I'm Mitra
 
+![alt text](<hero img png.png>)
+
 🎯 UI/UX Designer | 📊 Researcher | 💹 Forex Trader
 
 ---
